@@ -1,23 +1,23 @@
 
 ## task1
 
-execute as below
+execute as below  
 
 ```
 python3 ./aio.py
 ```
 
-will create sqlite db and get data from AlphaVantage
-and then insert data to db
-
-
+will create sqlite db and get data from AlphaVantage  
+and then insert data to db  
+  
+  
 ## task2
-Not finish all.
+Not finish all.  
 
 
-same as task1
-will create sqlite db and get data from AlphaVantage
-and then insert data to db
+same as task1  
+will create sqlite db and get data from AlphaVantage  
+and then insert data to db  
 ```
 python3 ./get_raw_data.py
 ```
