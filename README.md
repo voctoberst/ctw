@@ -23,6 +23,8 @@ python3 ./get_raw_data.py
 ```
 
 financial(Django host)
+postdata finish start_date, end_date, symbol  
+postdata not finish limit, page
 ```
 python3 manage.py runserver
 curl -X GET http://localhost:8000/admin/api/financial_data/?end_date=%3C%3D2023-02-25&start_date=%3E%3D2023-02-19&symbol=%3DIBM
