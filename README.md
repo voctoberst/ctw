@@ -29,8 +29,8 @@ curl -X GET http://localhost:8000/admin/api/financial_data/?end_date=%3C%3D2023-
 ```
 
 docker(Django only)
-need copy financial/schema.sql into docker
-but I had not finish it
+need copy financial/schema.sql into docker  
+but I had not finish it  
 ```
 docker compose up -d
 ```
