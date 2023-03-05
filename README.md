@@ -22,7 +22,7 @@ and then insert data to db
 python3 ./get_raw_data.py
 ```
 
-financial(Django host)
+financial(Django host)  
 postdata finish start_date, end_date, symbol  
 postdata not finish limit, page
 ```
